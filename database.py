@@ -37,7 +37,7 @@ if not username or not password:
 
 uri = (
     f"mongodb+srv://{quote_plus(username)}:{quote_plus(password)}"
-    "@cluster0.grefoa7.mongodb.net"
+    "@cluster0.grefoa7.mongodb.net/intellivault"
     "?retryWrites=true&w=majority"
 )
 
