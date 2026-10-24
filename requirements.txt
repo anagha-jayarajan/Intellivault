@@ -1,0 +1,14 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+chromadb
+anthropic
+python-dotenv
+google-genai
+streamlit
+rank-bm25
+pytesseract
+pdf2image
+pymongo
+argon2-cffi
+groq
